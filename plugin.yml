@@ -1,0 +1,16 @@
+name: TheHunter
+
+author: yourname
+
+main: thehunter.TheHunter
+
+commands:
+    thehunter:
+        description: Your description goes here
+        usage: Usage of the command goes here
+    thehunter_admin:
+        description: Your description goes here
+        usage: Usage of the command goes here
+
+version: 0.1
+
